@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hi there, 👋
 
-### I am DanTheSage and I am happy to meet you.
+### Nice to meet you. 
 
-### You can visit my portfolio at https://danthesage.com/
+### I am Daniel Ayeni, also popularly known as DanTheSage.
 
-###  📫 And you can reach me on Twitter at @Danthesage 
+### You can visit my portfolio at https://danthesage.com.
 
-### 🌱 I’m currently open to a new job, paid projects and contracts 
+###  📫 And you can reach me on Twitter at @Danthesage. 
+
+### 🌱 I’m currently open to a new job, paid projects and contracts. 
+
+### Let's connect!
 
 
 
