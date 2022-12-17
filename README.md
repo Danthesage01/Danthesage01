@@ -1,17 +1,20 @@
 ### Hi there, 👋
 
-### Nice to meet you. 
+###😄 I am Daniel Ayeni, also popularly known as DanTheSage. I am Frontend Developer.
 
-### I am Daniel Ayeni, also popularly known as DanTheSage.
+###🔭 I develop pixel-perfect UIs, responsive websites & web applications.
 
-### You can visit my portfolio at https://danthesage.com.
+###👌 You can visit my portfolio at https://danthesage.com.
 
-###  📫 And you can reach me on Twitter at @Danthesage. 
+###📫 You can also reach me @Danthesage on Twitter, Daniel Ayeni on LinkedIn & Daniel Ayeni on Upwork(https://www.upwork.com/freelancers/~0102eddb161a3f00c0). 
 
-### 🌱 I’m currently open to a new job, paid projects and contracts. 
+###🌱 I’m currently open to collaborating on new projects, contracts and jobs.
 
-### Let's connect!
+###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
 
+###⌨️ You can ask me about software development, frontend & backend development. 
+
+### Let's connect 😁!
 
 
 <!--
