@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-###😄 I am Daniel Ayeni, also popularly known as DanTheSage. I am Frontend Developer.
+###😄 I am Daniel Ayeni, also popularly known as DanTheSage. I am a Frontend Developer.
 
 ###🔭 I develop pixel-perfect UIs, responsive websites & web applications.
 
