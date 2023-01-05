@@ -12,9 +12,9 @@
 
 ###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
 
-###⌨️ You can ask me about software development, frontend & backend development. 
+###⌨️ Let's chat about anything around software development, football, writing and geography. 
 
-### Let's connect 😁!
+### I am eager to meet you 😁!
 
 
 <!--
