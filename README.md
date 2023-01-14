@@ -17,6 +17,17 @@
 ### I am eager to meet you 😁!
 
 
+```mermaid
+graph TD;
+ Danthesage --> Remote Jobs;
+ Danthesage --> Hybrid Jobs;
+ Danthesage --> In-office Jobs;
+ Remote  --> Frontend Role;
+ Hybrid --> Frontend Role;
+ In-office --> Frontend Role;
+
+```
+
 <!--
 **Danthesage01/Danthesage01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
