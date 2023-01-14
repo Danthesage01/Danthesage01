@@ -21,10 +21,8 @@
 graph TD;
  Danthesage --> Remote Jobs;
  Danthesage --> Hybrid Jobs;
- Danthesage --> In-office Jobs;
  Remote  --> Frontend Role;
  Hybrid --> Frontend Role;
- In-office --> Frontend Role;
 ```
 
 
