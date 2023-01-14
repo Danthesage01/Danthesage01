@@ -15,8 +15,8 @@
    A[Offer Type]-->B[Remote Opportunities];
    A[Offer Type]-->C[Hybrid Opportunities];
    A[Offer Type]-->D[Relocation Opportunities];
-   B[Remote Opportunities]-->D[Frontend Roles];
-   C[Hybrid Opportunities]-->D[Frontend Roles];
+   B[Remote Opportunities]-->E[Frontend Roles];
+   C[Hybrid Opportunities]-->E[Frontend Roles];
    D[Relocation Opportunities]-->E[Frontend Roles];
 ```
 
