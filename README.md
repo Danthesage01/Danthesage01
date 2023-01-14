@@ -19,10 +19,10 @@
 
 ```mermaid
 graph TD;
- Danthesage --> Remote Jobs;
- Danthesage --> Hybrid Jobs;
- Remote  --> Frontend Role;
- Hybrid --> Frontend Role;
+  Danthesage --> Remote Jobs;
+  Danthesage --> Hybrid Jobs;
+  Remote  --> Frontend Role;
+  Hybrid --> Frontend Role;
 ```
 
 
