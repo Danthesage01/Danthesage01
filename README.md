@@ -17,7 +17,7 @@
    A[Offer Type]-->D[Relocation Opportunities];
    B[Remote Opportunities]-->D[Frontend Roles];
    C[Hybrid Opportunities]-->D[Frontend Roles];
-   D[Relocation Opportunities]-->D[Frontend Roles];
+   D[Relocation Opportunities]-->E[Frontend Roles];
 ```
 
 ###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
