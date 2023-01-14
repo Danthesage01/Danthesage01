@@ -10,12 +10,6 @@
 
 ###🌱 I’m currently open to collaborating on new projects, contracts and jobs.
 
-###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
-
-###⌨️ Let's chat about anything around software development, football, writing and geography. 
-
-### I am eager to meet you 😁!
-
 ```mermaid
  graph TD;
    A[Danthesage]-->B[Remote Opportunities];
@@ -24,4 +18,9 @@
    C[Hybrid Opportunities]-->D[Frontend Roles];
 ```
 
+###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
+
+###⌨️ Let's chat about anything around software development, football, writing and geography. 
+
+### I am eager to meet you 😁!
 
