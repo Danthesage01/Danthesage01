@@ -12,9 +12,9 @@
 
 ```mermaid
  graph TD;
-   A[Offer Type]-->B[Remote Opportunities];
-   A[Offer Type]-->C[Hybrid Opportunities];
-   A[Offer Type]-->D[Relocation Opportunities];
+   A[Interested In]-->B[Remote Opportunities];
+   A[Interested In]-->C[Hybrid Opportunities];
+   A[Interested In]-->D[Relocation Opportunities];
    B[Remote Opportunities]-->E[Frontend Roles];
    C[Hybrid Opportunities]-->E[Frontend Roles];
    D[Relocation Opportunities]-->E[Frontend Roles];
