@@ -16,15 +16,6 @@
 
 ### I am eager to meet you 😁!
 
-<!-- 
-```mermaid
- graph TD;
-   Danthesage --> Remote Jobs;
-   Danthesage --> Hybrid Jobs;
-   Remote  --> Frontend Role;
-   Hybrid --> Frontend Role;
-``` -->
-
 ```mermaid
  graph TD;
    A[Danthesage]-->B[Remote Opportunities];
