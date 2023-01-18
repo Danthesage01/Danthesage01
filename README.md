@@ -15,9 +15,9 @@
    A[Interested In]-->B[Remote Opportunities];
    A[Interested In]-->C[Hybrid Opportunities];
    A[Interested In]-->D[Relocation Opportunities];
-   B[Remote Opportunities]-->E[Frontend Roles];
-   C[Hybrid Opportunities]-->E[Frontend Roles];
-   D[Relocation Opportunities]-->E[Frontend Roles];
+   B[Remote Opportunities]-->E[Software Dev];
+   C[Hybrid Opportunities]-->E[Software Dev];
+   D[Relocation Opportunities]-->E[Software Dev];
 ```
 
 ###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
