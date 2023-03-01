@@ -1,16 +1,18 @@
-### Hi there, 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ayeni
+====================================================================================================================================
 
-###😄 I am Daniel Ayeni, also popularly known as DanTheSage. I am a Software Developer.
+I'm a Software Developer
+------------------
 
-###🔭 I develop pixel-perfect UIs and responsive websites.
+A resourceful software developer with a strong understanding of MERN stack and other latest technology trends to develop, test, debug and deploy web applications. Experienced in handling complex technical challenges and using efficient coding techniques to meet projects and organizations’ needs geared towards growth.
 
-###🔭 I create and consume APIs to build web applications.
-
-###👌 You can visit my portfolio at https://danthesage.com.
-
-###📫 You can also reach me @Danthesage on Twitter, Daniel Ayeni on LinkedIn & Daniel Ayeni on Upwork(https://www.upwork.com/freelancers/~0102eddb161a3f00c0). 
-
-###🌱 I’m currently open to collaborating on new projects, contracts and jobs.
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [Danthesage](http://danthesage.com)
+* ✉️  You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
+* 🚀  I'm currently working on [Codenow School](http://codenowschoolv2.onrender.com/)
+* 🧠  I'm learning Docker and Software Design System
+* 🤝  I'm open to collaborating on Open Source Projects
+* ⚡  I'm a superstar... Yes! You can tell everyone
 
 ```mermaid
  graph TD;
@@ -22,9 +24,44 @@
    D[Relocation Opportunities]-->E[Software Developer Roles];
 ```
 
-###👯 I’m looking forward to resources and tasks to enhance my software development skills and learning. 
+### I am eager to connect with you 😁!
 
-###⌨️ Let's chat about software development, AI, Blockchain, football, technical writing and geography. 
+### Skills
 
-### I am eager to meet you 😁!
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/danthesage01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://danthesage.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/danthesage01"><img src="https://github-readme-stats.vercel.app/api?username=danthesage01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danthesage01's GitHub stats" /></a>
+
+<a href="http://www.github.com/danthesage01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthesage01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/danthesage"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+
+
 
