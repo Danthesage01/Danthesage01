@@ -9,7 +9,7 @@ A resourceful software developer with a strong understanding of MERN stack and o
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Danthesage](http://danthesage.com)
 * ✉️  You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
-* 🚀  I'm currently working on [Codenow School](https://codenowschool.up.railway.app)
+* 🚀  I'm currently working on [Daily Shege](https://dailyshege.com)
 * 🧠  I'm learning Docker and Software Design System
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I'm a superstar... Yes! You can tell everyone
