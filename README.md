@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Software Developer
 ------------------
 
-A resourceful software developer with a strong understanding of MERN stack and other latest technology trends to develop, test, debug and deploy web applications. Experienced in handling complex technical challenges and using efficient coding techniques to meet projects and organizations’ needs geared towards growth.
+A resourceful full-stack developer & technical writer with a strong understanding of MERN stack and other latest technology trends to develop, test, debug, deploy and document web applications and the development processes. Experienced in handling complex technical challenges and using efficient coding techniques to meet projects and organizations’ needs geared towards growth.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Danthesage](http://danthesage.com)
