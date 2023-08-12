@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ayeni
 ====================================================================================================================================
 
-I'm a Software Developer
-------------------
+A Full-Stack Developer & Technical Writer
+-----------------------------------------
 
 A resourceful full-stack developer & technical writer with a strong understanding of MERN stack and other latest technology trends to develop, test, debug, deploy and document web applications and the development processes. Experienced in handling complex technical challenges and using efficient coding techniques to meet projects and organizations’ needs geared towards growth.
 
