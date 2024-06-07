@@ -4,15 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Full-Stack Developer & Technical Writer
 -----------------------------------------
 
-A resourceful full-stack developer & technical writer with a strong understanding of MERN stack and other latest technology trends to develop, test, debug, deploy and document web applications and the development processes. Experienced in handling complex technical challenges and using efficient coding techniques to meet projects and organizations’ needs geared towards growth.
+A resourceful JavaScript ninja, always tinkering with React and React Native side projects. I have dabbled into the backend side of things with NodeJs and Express to have a thorough understanding of the javascript development ecosystem. Lately, I have been fascinated by GoLang, and I am trying out some cool stuff with it, such as REST APIs and CLI Development. 
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Danthesage](http://danthesage.com)
-* ✉️  You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
-* 🚀  I'm currently working on [Daily Shege](https://dailyshege.com)
-* 🧠  I'm learning Docker and Software Design System
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I'm a superstar... Yes! You can tell everyone
+* 🌍  I'm currently living in Lagos, Nigeria, and I am ready to relocate when the right opportunity comes.
+* ✉️   You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
+* 🚀  I'm currently building cool stuff at TheSlimPrep  
+* 🧠  I'm learning GoLang and Docker 
+* 🤝  I'm open to collaborating on Open Source Projects - [Daily Shege](https://dailyshege.com)
+* ⚡  Let's create magic together!
 
 ```mermaid
  graph TD;
