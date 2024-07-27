@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ayeni
 ====================================================================================================================================
 
-A Full-Stack Developer & Technical Writer
------------------------------------------
+A Full-Stack Developer
+-----------------------
 
-A resourceful JavaScript ninja, always tinkering with React and React Native side projects. I have dabbled into the backend side of things with NodeJs and Express to have a thorough understanding of the javascript development ecosystem. Lately, I have been fascinated by GoLang, and I am trying out some cool stuff with it, such as REST APIs and CLI Development. 
+I am a resourceful JavaScript ninja who is always tinkering with React and React Native side projects. I have invested most of my free time in the backend side of things with NodeJs and Express to gain a thorough understanding of JavaScript's full-stack development flow. Lately, I have been fascinated by Python and GoLang, and I am trying out some cool stuff with them, such as REST APIs and CLI Development. 
 
 * 🌍  I'm currently living in Lagos, Nigeria, and I am ready to relocate when the right opportunity comes.
 * ✉️   You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
-* 🚀  I'm currently building cool stuff at TheSlimPrep  
-* 🧠  I'm learning GoLang and Docker 
-* 🤝  I'm open to collaborating on Open Source Projects - [Daily Shege](https://dailyshege.com)
+* 🚀  I'm currently building cool stuff at AAT Technologies.  
+* 🧠  I'm currently advancing my knowledge of Python and Docker. 
+* 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Let's create magic together!
 
 ```mermaid
