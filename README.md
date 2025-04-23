@@ -74,7 +74,6 @@ I enjoy technical writing, creating reference docs, knowledge resources, and ins
 
 <p align="left"> <a href="https://www.github.com/danthesage01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://danthesage.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 ### Badges
 
@@ -86,8 +85,4 @@ I enjoy technical writing, creating reference docs, knowledge resources, and ins
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/danthesage"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-
 
