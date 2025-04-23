@@ -76,7 +76,12 @@ I enjoy technical writing, creating reference docs, knowledge resources, and ins
 
 ### Badges
 
-<a href="http://www.github.com/danthesage01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthesage01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Badges
+
+<a href="https://github.com/danthesage01">
+  <img src="https://streak-stats.demolab.com/?user=danthesage01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
 
 ### Support Me
 
