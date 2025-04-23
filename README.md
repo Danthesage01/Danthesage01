@@ -14,6 +14,11 @@ Backend:
 - RESTful APIs, authentication systems, scalable service architecture  
 - Databases: PostgreSQL, MySQL, MongoDB
 
+Cloud Deployment:
+- AWS (EC2, S3, IAM), Linux-based environments   
+- Application hosting, CI/CD pipelines, domain/DNS configuration 
+- Database provisioning and management
+
 Development Principles:
 - Clean code, test coverage, CI/CD workflows  
 - Business-driven development — prioritizing value delivery and product impact  
@@ -70,8 +75,6 @@ I enjoy technical writing, creating reference docs, knowledge resources, and ins
 <p align="left"> <a href="https://www.github.com/danthesage01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://danthesage.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/danthesage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-
 
 <a href="http://www.github.com/danthesage01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthesage01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
