@@ -41,9 +41,9 @@ I enjoy technical writing, creating reference docs, knowledge resources, and ins
    A[Interested In]-->B[Remote Opportunities];
    A[Interested In]-->C[Hybrid Opportunities];
    A[Interested In]-->D[Relocation Opportunities];
-   B[Remote Opportunities]-->E[Software Developer Roles];
-   C[Hybrid Opportunities]-->E[Software Developer Roles];
-   D[Relocation Opportunities]-->E[Software Developer Roles];
+   B[Remote Opportunities]-->E[Full-stack Software Engineer Roles];
+   C[Hybrid Opportunities]-->E[Full-stack Software Engineer Roles];
+   D[Relocation Opportunities]-->E[Full-stack Software Engineer Roles];
 ```
 
 ### I am eager to connect with you 😁!
