@@ -1,15 +1,33 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ayeni
 ====================================================================================================================================
 
-A Full-Stack Developer
------------------------
+A Full-Stack Software Engineer
+------------------------------
+I'm a Full-Stack Software Engineer with excellent problem-solving skills, building scalable, maintainable, and efficient applications across both frontend and backend. I thrive in agile, collaborative environments where business goals and user experience drive technical decisions.
 
-I am a resourceful JavaScript ninja who is always tinkering with React and React Native side projects. I have invested most of my free time in the backend side of things with NodeJs and Express to gain a thorough understanding of JavaScript's full-stack development flow. Lately, I have been fascinated by Python and GoLang, and I am trying out some cool stuff with them, such as REST APIs and CLI Development. 
+Frontend:
+- React, TypeScript, Tailwind CSS  
+- Component-driven architecture, performance optimization, accessibility-first design
+
+Backend:
+- Node.js, NestJS, Express  
+- RESTful APIs, authentication systems, scalable service architecture  
+- Databases: PostgreSQL, MySQL, MongoDB
+
+Development Principles:
+- Clean code, test coverage, CI/CD workflows  
+- Business-driven development — prioritizing value delivery and product impact  
+- Clear documentation and technical writing to support teams and onboarding
+
+I'm open to remote opportunities and relocation, and passionate about contributing to meaningful products and high-performing teams.
+
+Beyond Code
+I enjoy technical writing, creating reference docs, knowledge resources, and insightful articles.
 
 * 🌍  I'm currently living in Lagos, Nigeria, and I am ready to relocate when the right opportunity comes.
-* ✉️   You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
+* ✉️  You can contact me at [ayenibabajidedaniel@gmail.com](mailto:ayenibabajidedaniel@gmail.com)
 * 🚀  I'm currently building cool stuff at AAT Technologies.  
-* 🧠  I'm currently advancing my knowledge of Python and Docker. 
+* 🧠  I'm currently advancing my knowledge of system designs
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Let's create magic together!
 
